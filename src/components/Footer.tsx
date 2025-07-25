@@ -18,7 +18,7 @@ const Footer = () => {
               </a>
             </Button>
             <Button variant="ghost" size="sm" asChild>
-              <a href="mailto:developer@example.com">
+              <a href="grishmapatel.0821@gmail.com">
                 <Mail className="w-5 h-5" />
               </a>
             </Button>
@@ -31,7 +31,7 @@ const Footer = () => {
               <span>by a passionate developer</span>
             </p>
             <p className="text-sm mt-2">
-              © 2024 DevPortfolio. All rights reserved.
+              © 2025 DevPortfolio. All rights reserved.
             </p>
           </div>
         </div>

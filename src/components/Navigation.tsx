@@ -19,7 +19,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
             <Code2 className="h-8 w-8 text-primary" />
-            <span className="font-bold text-xl">DevPortfolio</span>
+            <span className="font-bold text-xl">MyPortfolio</span>
           </div>
 
           {/* Desktop Navigation */}

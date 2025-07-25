@@ -26,10 +26,10 @@ const skillCategories = [
     title: "Backend Development",
     icon: <Server className="w-6 h-6 text-accent" />,
     skills: [
-      { name: "Node.js", level: 85 },
-      { name: "Python", level: 75 },
+      { name: "Node.js", level: 75 },
+      { name: "Python", level: 85 },
       { name: "REST APIs", level: 90 },
-      { name: "GraphQL", level: 70 },
+      { name: "Java", level: 70 },
     ],
   },
   {
@@ -38,7 +38,7 @@ const skillCategories = [
     skills: [
       { name: "PostgreSQL", level: 80 },
       { name: "MongoDB", level: 85 },
-      { name: "AWS", level: 70 },
+      { name: "Azure", level: 60 },
       { name: "Docker", level: 75 },
     ],
   },
@@ -102,7 +102,7 @@ const SkillsSection = () => {
           <div className="flex flex-wrap justify-center gap-4">
             {[
               "React", "TypeScript", "Node.js", "Python", "PostgreSQL", 
-              "MongoDB", "AWS", "Docker", "Git", "Tailwind CSS", "Next.js", "Express"
+              "MongoDB", "Java", "Docker", "Git", "Tailwind CSS", "Next.js", "Azure"
             ].map((tech) => (
               <div
                 key={tech}

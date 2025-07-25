@@ -65,21 +65,21 @@ const ContactSection = () => {
                   <Mail className="w-5 h-5 text-primary" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-muted-foreground text-sm">developer@example.com</p>
+                    <p className="text-muted-foreground text-sm">grishmapatel.0821@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-accent" />
                   <div>
                     <p className="font-medium">Phone</p>
-                    <p className="text-muted-foreground text-sm">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground text-sm">+1 (226) 989-5598</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin className="w-5 h-5 text-primary" />
                   <div>
                     <p className="font-medium">Location</p>
-                    <p className="text-muted-foreground text-sm">San Francisco, CA</p>
+                    <p className="text-muted-foreground text-sm">Toronto, ON</p>
                   </div>
                 </div>
               </CardContent>
@@ -91,13 +91,13 @@ const ContactSection = () => {
               </CardHeader>
               <CardContent className="space-y-4">
                 <Button variant="outline" className="w-full justify-start" asChild>
-                  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/Grishmacoder" target="_blank" rel="noopener noreferrer">
                     <Github className="w-4 h-4 mr-2" />
                     GitHub
                   </a>
                 </Button>
                 <Button variant="outline" className="w-full justify-start" asChild>
-                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/grishma-patel-gp17/" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="w-4 h-4 mr-2" />
                     LinkedIn
                   </a>

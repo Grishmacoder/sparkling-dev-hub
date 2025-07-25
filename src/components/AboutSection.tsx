@@ -1,5 +1,5 @@
 import { Card, CardContent } from "@/components/ui/card";
-import developerPhoto from "@/assets/developer-photo.jpg";
+import developerPhoto from "@/assets/my-photo.jpg";
 
 const AboutSection = () => {
   return (
@@ -42,8 +42,8 @@ const AboutSection = () => {
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold mb-4 text-accent">What I Do</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  I specialize in React, Node.js, and TypeScript, creating responsive frontends and 
-                  scalable backends. I'm passionate about clean code, user experience, and staying 
+                  I specialize in ront-end technologies like HTML, CSS, JavaScript, React, TypeScript and Vue, as well as robust back-end
+frameworks including Node.js, Python, Java, and Spring Boot. I'm passionate about clean code, user experience, and staying 
                   up-to-date with the latest technologies. Always eager to take on new challenges 
                   and learn emerging technologies.
                 </p>

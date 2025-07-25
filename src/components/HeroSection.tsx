@@ -50,12 +50,12 @@ const HeroSection = () => {
 
           <div className="flex justify-center space-x-6 pt-8">
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Grishmacoder" target="_blank" rel="noopener noreferrer">
                 <Github className="w-6 h-6" />
               </a>
             </Button>
             <Button variant="ghost" size="sm" asChild>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/grishma-patel-gp17/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-6 h-6" />
               </a>
             </Button>
